@@ -1,0 +1,133 @@
+Diagnosis
+PET scan of the brain of a person with Alzheimer's disease showing a loss of function in the temporal lobe
+Alzheimer's disease (AD) can only be definitively diagnosed with autopsy findings; in the absence of autopsy, clinical diagnoses of AD are "possible" or "probable", based on other findings. Up to 23% of those clinically diagnosed with AD may be misdiagnosed and may have pathology suggestive of another condition with symptoms that mimic those of AD.
+
+AD is usually clinically diagnosed based on a person's medical history, observations from friends or relatives, and behavioral changes. The presence of characteristic neuropsychological changes with impairments in at least two cognitive domains that are severe enough to affect a person's functional abilities are required for the diagnosis. Domains that may be impaired include memory (most commonly impaired), language, executive function, visuospatial functioning, or other areas of cognition. The neurocognitive changes must be a decline from a prior level of function and the diagnosis requires ruling out other common causes of neurocognitive decline. Advanced medical imaging with computed tomography (CT) or magnetic resonance imaging (MRI), and with single-photon emission computed tomography (SPECT) or positron emission tomography (PET), can be used to help exclude other cerebral pathology or subtypes of dementia. On MRI or CT, Alzheimer's disease usually shows a generalised or focal cortical atrophy, which may be asymmetric. Atrophy of the hippocampus is also commonly seen. Brain imaging commonly also shows cerebrovascular disease, most commonly previous strokes (small or large territory strokes), and this is thought to be a contributing cause of many cases of dementia (up to 46% cases of dementia also have cerebrovascular disease on imaging). FDG-PET scan is not required for the diagnosis but it is sometimes used when standard testing is unclear. FDG-PET shows a bilateral, asymmetric, temporal and parietal reduced activity. Advanced imaging may predict conversion from prodromal stages (mild cognitive impairment) to Alzheimer's disease. FDA-approved radiopharmaceutical diagnostic agents used in PET for Alzheimer's disease are florbetapir (2012), flutemetamol (2013), florbetaben (2014), and flortaucipir (2020). Because many insurance companies in the United States do not cover this procedure, its use in clinical practice is largely limited to clinical trials as of 2018.
+
+Assessment of intellectual functioning including memory testing can further characterise the state of the disease. Medical organizations have created diagnostic criteria to ease and standardise the diagnostic process for practising physicians. Definitive diagnosis can only be confirmed with post-mortem evaluations when brain material is available and can be examined histologically for senile plaques and neurofibrillary tangles.
+
+Criteria
+There are three sets of criteria for the clinical diagnoses of the spectrum of Alzheimer's disease: the 2013 fifth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5); the National Institute on Aging-Alzheimer's Association (NIA-AA) definition as revised in 2011; and the International Working Group criteria as revised in 2010.
+
+Eight intellectual domains are most commonly impaired in AD—memory, language, perceptual skills, attention, motor skills, orientation, problem solving and executive functional abilities, as listed in the fourth text revision of the DSM (DSM-IV-TR).
+
+The DSM-5 defines criteria for probable or possible AD for both major and mild neurocognitive disorder. Major or mild neurocognitive disorder must be present along with at least one cognitive deficit for a diagnosis of either probable or possible AD. For major neurocognitive disorder due to AD, probable Alzheimer's disease can be diagnosed if the individual has genetic evidence of AD or if two or more acquired cognitive deficits, and a functional disability that is not from another disorder, are present. Otherwise, possible AD can be diagnosed as the diagnosis follows an atypical route. For mild neurocognitive disorder due to AD, probable Alzheimer's disease can be diagnosed if there is genetic evidence, whereas possible AD can be met if all of the following are present: no genetic evidence, decline in both learning and memory, two or more cognitive deficits, and a functional disability not from another disorder.
+
+The NIA-AA criteria are used mainly in research rather than in clinical assessments. They define AD through three major stages: preclinical, mild cognitive impairment (MCI), and Alzheimer's dementia. Diagnosis in the preclinical stage is complex and focuses on asymptomatic individuals; the latter two stages describe individuals experiencing symptoms, along with biomarkers, predominantly those for neuronal injury (mainly tau-related) and amyloid beta deposition. The core clinical criteria itself rests on the presence of cognitive impairment without the presence of comorbidities. The third stage is divided into probable and possible AD dementia. In probable AD dementia there is steady impairment of cognition over time and a memory-related or non-memory-related cognitive dysfunction. In possible AD dementia, another causal disease such as cerebrovascular disease is present.
+
+Techniques
+
+Cognitive tests such as the mini–mental state examination (MMSE) can help in the diagnosis of Alzheimer's disease. In this test instructions are given to copy drawings like the one reported, remember some words, read, and subtract numbers serially.
+Neuropsychological tests including cognitive tests such as the mini–mental state examination (MMSE), the Montreal Cognitive Assessment (MoCA) and the Mini-Cog are widely used to aid in diagnosis of the cognitive impairments in AD. These tests may not always be accurate, as they lack sensitivity to mild cognitive impairment, and can be biased by language or attention problems; more comprehensive test arrays are necessary for high reliability of results, particularly in the earliest stages of the disease.
+
+Further neurological examinations are crucial in the differential diagnosis of Alzheimer's disease and other diseases. Interviews with family members are used in assessment, and caregivers can supply important information on daily living abilities and on the decrease in the person's mental function. A caregiver's viewpoint is particularly important, since a person with Alzheimer's disease is commonly unaware of their deficits. Many times, families have difficulties in the detection of initial dementia symptoms and may not communicate accurate information to a physician.
+
+Supplemental testing can rule out other potentially treatable diagnoses and help avoid misdiagnoses. Common supplemental tests include blood tests, thyroid function tests, as well as tests to assess vitamin B12 levels, rule out neurosyphilis and rule out metabolic problems (including tests for kidney function, electrolyte levels and for diabetes). MRI or CT scans might also be used to rule out other potential causes of the symptoms – including tumors or strokes. Delirium and depression can be common among individuals and are important to rule out.
+
+Psychological tests for depression are used, since depression can either be concurrent with AD (see Depression of Alzheimer disease), an early sign of cognitive impairment, or even the cause.
+
+Due to low accuracy, the C-PIB-PET scan is not recommended as an early diagnostic tool or for predicting the development of AD when people show signs of mild cognitive impairment (MCI). The use of 18F-FDG PET scans, as a single test, to identify people who may develop Alzheimer's disease is not supported by evidence.
+
+In May 2025, the US FDA approved a blood test by Fujirebio Diagnostics' Lumipulse G pTau217/ß-Amyloid 1-42 Plasma Ratio diagnostic device for the early detection of amyloid plaques associated with AD in adults aged 55 years and older who are exhibiting signs and symptoms of the disease.
+
+Prevention
+
+Intellectual activities such as playing chess or regular social interaction have been linked to a reduced risk of Alzheimer's disease in epidemiological studies, although no causal relationship has been found.
+There is no disease-modifying treatments proven to cure Alzheimer's disease and because of this, AD research has focused on interventions to prevent the onset and progression. There is no evidence that supports any particular measure in preventing AD, and studies of measures to prevent the onset or progression have produced inconsistent results. Epidemiological studies have proposed relationships between an individual's likelihood of developing AD and modifiable factors, such as medications, lifestyle, and diet. There are some challenges in determining whether interventions for AD act as a primary prevention method, preventing the disease itself, or a secondary prevention method, identifying the early stages of the disease. These challenges include duration of intervention, different stages of disease at which intervention begins, and lack of standardization of inclusion criteria regarding biomarkers specific for AD. Further research is needed to determine factors that can help prevent AD.
+
+Medication
+Cardiovascular risk factors, such as hypercholesterolaemia, hypertension, diabetes, and smoking, are associated with a higher risk of onset and worsened course of AD. The use of statins to lower cholesterol may be of benefit in AD. Antihypertensive and antidiabetic medications in individuals without overt cognitive impairment may decrease the risk of dementia by influencing cerebrovascular pathology. More research is needed to examine the relationship with AD specifically; clarification of the direct role medications play versus other concurrent lifestyle changes (diet, exercise, smoking) is needed.
+
+Depression is associated with an increased risk for AD; management with antidepressant medications may provide a preventative measure.
+
+Historically, long-term usage of non-steroidal anti-inflammatory drugs (NSAIDs) were thought to be associated with a reduced likelihood of developing AD as it reduces inflammation, but NSAIDs do not appear to be useful as a treatment. Additionally, because women have a higher incidence of AD than men, it was once thought that estrogen deficiency during menopause was a risk factor, but there is a lack of evidence to show that hormone replacement therapy (HRT) in menopause decreases risk of cognitive decline.
+
+Lifestyle
+Further information: Neurobiological effects of physical exercise
+Certain lifestyle activities, such as physical and cognitive exercises, higher education and occupational attainment, cigarette smoking, stress, sleep, and the management of other comorbidities, including diabetes and hypertension, may affect the risk of developing AD.
+
+Physical exercise is associated with a decreased rate of dementia, and is effective in reducing symptom severity in those with AD. Memory and cognitive functions can be improved with aerobic exercises including brisk walking three times weekly for forty minutes. It may also induce neuroplasticity of the brain. Participating in mental exercises, such as reading, crossword puzzles, and chess have reported potential to be preventive. Meeting the WHO recommendations for physical activity is associated with a lower risk of AD.
+
+Higher education and occupational attainment, and participation in leisure activities, contribute to a reduced risk of developing AD, or of delaying the onset of symptoms. This is compatible with the cognitive reserve theory, which states that some life experiences result in more efficient neural functioning providing the individual a cognitive reserve that delays the onset of dementia manifestations. Education delays the onset of Alzheimer's disease syndrome without changing the duration of the disease.
+
+Cessation in smoking may reduce risk of developing AD, specifically in those who carry the APOE ɛ4 allele. The increased oxidative stress caused by smoking results in downstream inflammatory or neurodegenerative processes that may increase risk of developing AD. Avoidance of smoking, counseling and pharmacotherapies to quit smoking are used, and avoidance of environmental tobacco smoke is recommended.
+
+Alzheimer's disease is associated with sleep disorders but the precise relationship is unclear. It was once thought that as people get older, the risk of developing sleep disorders and AD independently increase, but research suggests sleep disorders may be a risk factor for AD. One theory is that the mechanisms to increase clearance of toxic substances, including Aβ, are active during sleep. With decreased sleep, a person is increasing Aβ production and decreasing Aβ clearance, resulting in Aβ accumulation. Receiving adequate sleep (approximately 7–8 hours) every night has become a potential lifestyle intervention to prevent the development of AD.
+
+Stress is a risk factor for the development of AD. The mechanism by which stress predisposes someone to development of AD is unclear, but it is suggested that lifetime stressors may affect a person's epigenome, leading to an overexpression or under expression of specific genes. Although the relationship of stress and AD is unclear, strategies to reduce stress and relax the mind may be helpful strategies in preventing the progression or Alzheimer's disease. Meditation, for instance, is a helpful lifestyle change to support cognition and well-being, though further research is needed to assess long-term effects.
+
+Management
+There is no cure for AD;[218] available treatments offer relatively small symptomatic benefits but remain palliative in nature. Treatments can be divided into pharmaceutical, psychosocial, and caregiving.
+
+Pharmaceutical
+
+Three-dimensional molecular model of donepezil, an acetylcholinesterase inhibitor used in the treatment of Alzheimer's disease symptoms
+
+Molecular structure of memantine, a medication approved for advanced Alzheimer's disease symptoms
+Symptomatic treatment
+Medications used to treat the cognitive symptoms of AD rather than the underlying cause include: four acetylcholinesterase inhibitors (tacrine, rivastigmine, galantamine, and donepezil) and memantine, an NMDA receptor antagonist. The acetylcholinesterase inhibitors are intended for those with mild to severe AD, whereas memantine is intended for those with moderate or severe Alzheimer's disease. The benefit from their use is small.
+
+Reduction in the activity of the cholinergic neurons is a well-known feature of AD. Acetylcholinesterase inhibitors are employed to reduce the rate at which the body breaks down acetylcholine (ACh), thereby increasing the concentration of ACh in the brain and combating the loss of ACh caused by the death of cholinergic neurons. Evidence supports medical efficacy in mild to moderate AD, and somewhat in the advanced stage. This does not extend to delaying symptom onset.
+
+Memantine is a noncompetitive NMDA receptor antagonist first used as an anti-influenza agent. It acts on the glutamatergic system by blocking NMDA receptors and inhibiting their overstimulation by glutamate. Memantine has been reported to have a small benefit in the treatment of moderate to severe AD. The combination of memantine and donepezil has been reported to be "of statistically significant but clinically marginal effectiveness".
+
+An extract of Ginkgo biloba known as EGb 761 has been used for treating AD and other neuropsychiatric disorders. Its use is approved throughout Europe. A 2016 review concluded that the quality of evidence from clinical trials on G. biloba has been insufficient to warrant its use.
+
+Atypical antipsychotics are modestly useful in reducing aggression and psychosis in people with AD, but their advantages are offset by serious adverse effects, such as stroke, movement difficulties or cognitive decline. They are recommended in dementia only after first line therapies such as behavior modification have failed, and due to the risk of adverse effects, they should be used for the shortest amount of time possible. Stopping antipsychotic use in this group of people appears to be safe.
+
+Side effects
+The most common side effects are nausea and vomiting, both of which are linked to cholinergic excess. These side effects arise in approximately 10–20% of users, are mild to moderate in severity, and can be managed by slowly adjusting medication doses. Less common secondary effects include muscle cramps, decreased heart rate (bradycardia), decreased appetite and weight, and increased gastric acid production. Reported adverse events with memantine are infrequent and mild, including hallucinations, confusion, dizziness, headache and fatigue.
+
+Antibodies
+Two monoclonal antibodies have been approved to target amyloid beta – donanemab and lecanemab– but as of 2025, their role in treatment is uncertain because of side effects, questions about efficacy, and cost.
+
+Lecanemab is approved in the US, including a boxed warning about amyloid-related imaging abnormalities. As of early August 2024, lecanemab was approved for sale in Japan, South Korea, China, Hong Kong and Israel although not by an advisory body of the European Union on July 26, citing side effects.
+
+Donanemab is approved in the US.
+
+Psychosocial
+Psychosocial interventions are used as an adjunct to pharmaceutical treatment and can be classified within behavior-, emotion-, cognition- or stimulation-oriented approaches.
+
+Behavioral interventions attempt to identify and reduce the antecedents and consequences of problem behaviors. This approach has not reported success in improving overall functioning, but can help to reduce some specific problem behaviors, such as incontinence. There is a lack of high quality data on the effectiveness of these techniques in other behavior problems such as wandering. Music therapy is effective in reducing behavioral and psychological symptoms.
+
+Emotion-oriented interventions include reminiscence therapy, validation therapy, supportive psychotherapy, sensory integration, also called snoezelen, and simulated presence therapy. A Cochrane review has found no evidence that this is effective. Reminiscence therapy (RT) involves the discussion of past experiences individually or in group, many times with the aid of photographs, household items, music and sound recordings, or other familiar items from the past. A 2018 review of the effectiveness of RT found that effects were inconsistent, small in size and of doubtful clinical significance, and varied by setting. Simulated presence therapy (SPT) is based on attachment theories and involves playing a recording with voices of the closest relatives of the person with AD. There is partial evidence indicating that SPT may reduce challenging behaviors.
+
+The aim of cognition-oriented treatments, which include reality orientation and cognitive retraining, is the reduction of cognitive deficits. Reality orientation consists of the presentation of information about time, place, or person to ease the understanding of the person about its surroundings and his or her place in them. On the other hand, cognitive retraining tries to improve impaired capacities by exercising mental abilities. Both have reported some efficacy improving cognitive capacities.
+
+Stimulation-oriented treatments include art, music and pet therapies, exercise, and any other kind of recreational activities. Stimulation has modest support for improving behavior, mood, and, to a lesser extent, function. Nevertheless, as important as these effects are, the main support for the use of stimulation therapies is the change in the person's routine.
+
+Caregiving
+Further information: Caring for people with dementia and Palliative care
+Since AD has no cure and it gradually renders people incapable of tending to their own needs, caregiving is essentially the treatment and must be carefully managed over the course of the disease.
+
+During the early and moderate stages, modifications to the living environment and lifestyle can increase safety and reduce caretaker burden.Examples of such modifications are the adherence to simplified routines, the placing of safety locks, the labeling of household items to cue the person with the disease or the use of modified daily life objects. If eating becomes problematic, food will need to be prepared in smaller pieces or even puréed. When swallowing difficulties arise, the use of feeding tubes may be required. In such cases, the medical efficacy and ethics of continuing feeding is an important consideration of the caregivers and family members. The use of physical restraints is rarely indicated in any stage of the disease, although there are situations when they are necessary to prevent harm to the person with Alzheimer's disease or their caregivers.
+
+During the final stages of the disease, treatment is centred on relieving discomfort until death, often with the help of hospice.
+
+Diet
+Diet may be a modifiable risk factor for the development of Alzheimer's disease but more research needs to be conducted. The Mediterranean diet, and the DASH diet are both associated with less cognitive decline. A different approach has been to incorporate elements of both of these diets into one known as the MIND diet. Results from large-scale epidemiological studies and clinical trials have not demonstrated an independent role for most individual dietary components.
+
+Prognosis
+The early stages of AD are difficult to diagnose. A definitive diagnosis is usually made once cognitive impairment compromises daily living activities, although the person may still be living independently. The symptoms will progress from mild cognitive problems, such as memory loss through increasing stages of cognitive and non-cognitive disturbances, eliminating any possibility of independent living, especially in the late stages of the disease.
+
+Life expectancy of people with AD is reduced. The normal life expectancy for 60 to 70 years old is 23 to 15 years; for 90 years old it is 4.5 years. Following AD diagnosis it ranges from 7 to 10 years for those in their 60s and early 70s (a loss of 13 to 8 years), to only about 3 years or less (a loss of 1.5 years) for those in their 90s.
+
+As of 1995, fewer than 3% of people lived more than fourteen years after diagnosis. Disease features significantly associated with reduced survival are increased severity of cognitive impairment, decreased functional level, disturbances in the neurological examination, history of falls, malnutrition, dehydration and weight loss. Other coincident diseases such as heart problems, diabetes, or history of alcohol abuse are also related with shortened survival. While the earlier the age at onset the higher the total survival years, life expectancy is particularly reduced when compared to the healthy population among those who are younger.
+
+Men have a less favorable survival prognosis than women, even after controlling for age and some medical conditions. As of 2025, the reasons for the higher mortality in men are unknown. It has been speculated that men have different dementia risk factors than women, like traumatic brain injury.
+
+Aspiration pneumonia is the most frequent immediate cause of death brought by AD. While the reasons behind the lower prevalence of cancer in AD patients remain unclear, some researchers hypothesize that biological mechanisms shared by both diseases might play a role. However, this requires further investigation.
+
+Epidemiology
+See also: Alzheimer's disease in African Americans and Alzheimer's Disease in the East Asian Population
+Regarding incidence, where a disease-free population is followed over the years have shown rates between 10 and 15 per thousand person-years for all dementias and 5–8 for AD in Spain and Italy, which means that half of new dementia cases each year are Alzheimer's disease. Advancing age is a primary risk factor for the disease and incidence rates are not equal for all ages: every 5 years after the age of 65, the risk of acquiring the disease approximately doubles, increasing from 3 to as much as 69 per thousand person years. The prevalence of AD in populations is dependent upon factors including incidence and survival. Since the incidence of AD increases with age, prevalence depends on the mean age of the population for which prevalence is given. In the United States in 2020, AD dementia prevalence was estimated to be 5.3% for those in the 60–74 age group, with the rate increasing to 13.8% in the 74–84 group and to 34.6% in those greater than 85. Prevalence rates in some less developed regions around the globe are lower. Both the prevalence and incidence rates of AD are steadily increasing, and the prevalence rate is estimated to triple by 2050 reaching 152 million, compared to the 50 million people with AD globally in 2020.
+
+Sex difference
+Women with AD are more common than males. This difference has been thought to be due to women's longer life spans. According to one study when adjusted for age, both sexes were affected by Alzheimer's at equal rates.[16] However, many studies have found even higher age-adjusted numbers for women, including the Framingham study which found women to have almost twice the lifetime risk of men.
+
+As of 2025 it is unknown why women are more commonly affected by AD, although many theories exist as mentioned in the section causes above. There are also observable differences in the disease course, as tau protein accumulates faster in women than in men. Also, presence of APOE4 increases AD risk more in women than in men. Even if the same amount of AD pathology observed in a woman compared to a man, there is greater cognitive decline in a woman.
+
+This is relevant for therapy, like the timing of anti-tau treatments or menopausal hormone therapy: In the Canadian Longitudinal Study of Aging women on MHT had higher memory scores than those who were not on MHT.
+
+
+
