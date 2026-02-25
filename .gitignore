@@ -45,3 +45,6 @@ vectorstore/
 # OS
 .DS_Store
 Thumbs.db
+
+# Test files
+test_components.py
